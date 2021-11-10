@@ -14,11 +14,11 @@ Please set your version of the project to "private" after forking.
 
 Identify the key goals you need to complete for the coursework
 
-1.
-1.
-1.
-1.
-1.
+1. Complete on time 
+2. Complete all "must" and "should" features
+3. Manage time and if possible, make an attempt on "could" features
+4. 
+5.
 
 
 ## Requirements to fulfill goals
