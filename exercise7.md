@@ -17,7 +17,7 @@ Identify the key goals you need to complete for the coursework
 1. Complete on time 
 2. Complete all "must" and "should" features
 3. Manage time and if possible, make an attempt on "could" features
-4. 
+4. Try and learn as much as I can
 5.
 
 
@@ -25,9 +25,9 @@ Identify the key goals you need to complete for the coursework
 
 What do you need to be able to meet those goals?  This can include clearer specifications, tests (what needs testing, how to test it?), knowledge etc.
 
-1.
-1.
-1.
+1. Ask teacher for help
+2. Work from the start
+3. 
 1.
 1.
 
